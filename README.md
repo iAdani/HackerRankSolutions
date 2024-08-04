@@ -1,1 +1,2 @@
-### Solutions for HackerRank programming problems
+# Solutions for HackerRank programming problems
+### Enjoy my coding
